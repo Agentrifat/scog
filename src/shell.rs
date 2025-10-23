@@ -39,7 +39,7 @@ impl Shell {
 
                 write!(
                     w,
-                    "```shell\nsource completions/{bin_name}.bash\n# Or copy to: ~/.local/share/bash-completion/completions/\n```\n"
+                    "```shell\nsource completions/{bin_name}.bash\n# Or copy to: ~/.local/share/bash-completion/completions/\n```\n\n"
                 )?;
             }
             Shell::Zsh => {
@@ -47,7 +47,7 @@ impl Shell {
 
                 write!(
                     w,
-                    "```shell\n# 1. Create a completions directory if it doesn't exist\nmkdir -p ~/.zsh/completions\n\n# 2. Copy the completion file there\ncp completions/_{bin_name} ~/.zsh/completions/_{bin_name}\n\n# 3. Add to ~/.zshrc (if not already present)\nfpath=(~/.zsh/completions $fpath)\n\n# 4. Initialize completions\nautoload -Uz compinit\ncompinit\n```\n"
+                    "```shell\n# 1. Create a completions directory if it doesn't exist\nmkdir -p ~/.zsh/completions\n\n# 2. Copy the completion file there\ncp completions/_{bin_name} ~/.zsh/completions/_{bin_name}\n\n# 3. Add to ~/.zshrc (if not already present)\nfpath=(~/.zsh/completions $fpath)\n\n# 4. Initialize completions\nautoload -Uz compinit && compinit\n```\n\n"
                 )?;
             }
             Shell::Fish => {
@@ -55,7 +55,7 @@ impl Shell {
 
                 write!(
                     w,
-                    "```shell\ncp completions/myapp.fish ~/.config/fish/completions/\n```\n"
+                    "```shell\ncp completions/myapp.fish ~/.config/fish/completions/\n```\n\n"
                 )?;
             }
         }
